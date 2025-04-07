@@ -24,3 +24,4 @@ class AAA {
      s1.Area(2, 5);
  }
 }
+
