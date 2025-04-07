@@ -25,3 +25,4 @@ class SSS {
             Rectangle r2 = new Rectangle(7, 12);
   }
 }
+
