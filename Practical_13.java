@@ -26,4 +26,3 @@ public class prac13 {
       }
   }
 }
-
