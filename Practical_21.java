@@ -17,7 +17,7 @@ final class Car {
 public class Main {
     public static void main(String[] args) {
        
-        Car myBmw = new Car("BMW M5 CS");
+        Car myBmw = new Car("Dodge Chellenger");
         myBmw.display();
     }
 }
