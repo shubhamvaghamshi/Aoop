@@ -1,33 +1,33 @@
 
-interface Dhruv {
-    void Anger(); 
+interface shubham {
+    void shant(); 
 }
 
 
-interface Mood {
-    void move();
+interface Moodi {
+    void moveis();
 }
 
 
-class Me implements Dhruv, Mood {
+class Me implements shubham, Moodi {
     
-    public void Anger() {
-        System.out.println("hehehehehe");
+    public void shant() {
+        System.out.println("Haha");
     }
 
    
-    public void move() {
-        System.out.println("ignoreeee guyyyyyyyyyssss");
+    public void moveis() {
+        System.out.println("More Moro");
     }
 }
 
 public class Main {
     public static void main(String[] args) {
       
-        Me myd = new Me();
+        Me magaj = new My();
 
       
-        myd.Anger();       
-        myd.move();    
+        myd.shant();       
+        myd.moveis();    
     }
 }
